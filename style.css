@@ -1,0 +1,204 @@
+*{
+	margin:0;
+	padding: 0;
+}
+div#header{
+	margin: 0 500px;
+}
+div#header h1{
+	font-family: 'inter';
+	font-size: 25px;
+	padding-top: 30px;
+}
+div#header img{
+	width: 100px;
+	height: 100px;
+	float:left;
+}
+#navbar{
+	padding-bottom: 20px;
+	width: 100%;
+	height: 40px;
+	background:#4e342e;
+}
+.clear{
+	clear: both;
+}
+.nav_ul{
+	paddiing-left: 30px;
+}
+#navbar .nav_ul li{
+	list-style:none;
+	float: left;
+}
+#navbar .nav_ul li a{
+	color:#fff;
+	text-decoration: none;
+	padding: 20px 50px;
+	text-transform: uppercase;
+	display: block;
+	font-family: interBold;
+}
+#navbar .nav ul li a:hover, .active{
+	background-color: #5d4037;
+}
+div#slider img{
+	width: 100%;
+	height: 250px;
+	object-fit: cover;
+}
+div.quote{
+	position: absolute;
+	background-color: rgba(255,255,255,0.5);
+	top: 40%;
+	left: 30%;
+	padding: 30px;
+	font-family: Myanmar3,Yunghkio;
+}
+div.offer{
+	text-align: center;
+	padding: 30px;
+
+}	
+hr{
+	margin-left: 300px;
+	margin-right: 300px;
+	
+}
+div.des{
+	
+	margin-left: 200px;
+	padding: 15px;
+}
+
+
+div#con div.contact{
+	padding:15px;
+	width: 100px;
+	margin-left: 200px;
+	float:left;
+}
+div.contact p,h3{
+	text-align: center;
+	font-family: interRegular;
+	padding: 5px;
+
+}
+div#choose div.chooseimage{
+	padding-top:40px;
+	width:70px;
+	float: left;
+}
+div#imageslide{
+	margin-left: 180px;
+	margin-right: 180px;
+	float: left;
+	padding: 20px;
+}
+div#choose{
+	width: 50%;
+	float: left;
+	height: 250px;
+
+}
+div#choose div.chooseimage{
+	width: 130px;
+	height: 200px;
+}
+div#choosetext{
+	height: 250px;
+}
+div#choosetext p{
+	line-height: 1.5em;
+	text-align: justify;
+	padding: 5px;
+}
+div#choosetext h2{
+	padding: 5px;
+}
+div#photoslide{
+	padding: 20px;
+	margin-left: 180px;
+	margin-right: 180px;
+	height: 300px;
+	float: left;
+
+}
+div.photo1{
+width: 49%;
+height: 300px;
+float: left;
+}
+div#photoslide div.photo1 img{
+	width:400px;
+	height: 300px;
+
+}
+div#photo{
+	width: 49%;
+	height: 300px;
+	float: left;
+}
+div.photo2{
+	width: 50%;
+	height: 100px;
+}
+div.photo2 img{
+	width: 380px;
+	height: 100px;
+	margin-left: 20px;
+}
+div.photo3{
+	width: 50%;
+	height: 200px;
+	padding-top: 10px;
+	float: left;
+}
+div.photo3 img{
+	width: 180px;
+	height: 190px;
+	margin-left: 20px;
+
+}
+div#menu{
+	padding: 20px;
+	margin-left: 180px;
+	margin-right: 180px;
+	height: 300px;
+	float: left;
+}
+div.menuimage{
+	
+	height: 300px;
+	float:left;
+}
+div.menuimage img{
+	width: 200px;
+	height: 290px;
+}
+div.list h2{
+	padding-top: 20px;
+	margin-left: 250px;
+}
+div.list ol{
+	height: 200px;
+	margin-left: 250px;
+	padding: 40px;
+	line-height: 1.5em;
+}
+div#foot{
+	padding: 20px;
+	background-color: #4e342e;
+	padding-bottom: 40px;
+}
+div#foot p{
+	float: left;
+	text-align: center;
+}
+.foot1{
+	margin-right: 0px;
+}
+.foot2{
+	margin-left: 600px;
+}
+
